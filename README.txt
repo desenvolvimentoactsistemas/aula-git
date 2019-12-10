@@ -12,6 +12,7 @@ Guia git hub
 - 'git push' // enviaalterações locais para o repositório remoto
 //777777777777777777777777777
 //66666666666666666666666666666666666666666666666
+//teste
 // linha teste
 // linha teste
 // linha teste
