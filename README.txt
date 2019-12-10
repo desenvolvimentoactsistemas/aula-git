@@ -9,4 +9,8 @@ Guia git hub
 - 'git branch' //gerenciar novas linhas do tempo
 - 'git checkout' // manipula as linhas do tempo
 - 'git merge' // unir as linahs do tempo
-- 'git push' // enviaalterações locais para o repositório remoto 
+- 'git push' // enviaalterações locais para o repositório remoto
+// linha teste
+// linha teste
+// linha teste
+// linha teste
